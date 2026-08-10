@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated Scientific Reports article."
+title: "SAL-TD3 for Dynamic Mobile-Robot Navigation"
+type: software
+authors:
+  - family-names: Chen
+    given-names: You
+version: 0.1.0
+license: MIT
+keywords:
+  - mobile robot navigation
+  - deep reinforcement learning
+  - TD3
+  - LSTM
+  - self-attention
+preferred-citation:
+  type: article
+  title: "Integrating self-attention and LSTM into TD3 for robust mobile robot navigation in dynamic environments"
+  authors:
+    - family-names: Chen
+      given-names: Luyun
+    - family-names: Tang
+      given-names: Qiang
+    - family-names: Xu
+      given-names: Rui
+    - family-names: Chen
+      given-names: You
+  journal: Scientific Reports
+  volume: 16
+  year: 2026
+  month: 4
+  day: 10
+  doi: 10.1038/s41598-026-45819-0
+  url: "https://doi.org/10.1038/s41598-026-45819-0"
